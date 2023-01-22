@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:contributor>Sergio Bolívar Gómez</dc:contributor>
+  <dc:contributor>Juan José Velasco Horcajada</dc:contributor>
+  <dc:contributor>María Peña Fernández</dc:contributor>
+  <dc:contributor>Samuel Laso Saro</dc:contributor>
+  <dc:contributor>Ignacio de la Torre Cubillo</dc:contributor>
+  <dc:contributor>Mónica Alcantar Martínez</dc:contributor>
+  <dc:contributor>Datos Abiertos del INE</dc:contributor>
+  <dc:contributor>Portal de Datos Abiertos del Ayuntamiento de Madrid</dc:contributor>
+  <dc:coverage>name=Centro; east=-3.7038; north=40.4168</dc:coverage>
+  <dc:coverage>name=Arganzuela; east=-3.6922; north=40.3964</dc:coverage>
+  <dc:coverage>name=Retiro; east=-3.7167; north=40.3719</dc:coverage>
+  <dc:coverage>name=Salamanca; east=-3.6167; north=40.3818</dc:coverage>
+  <dc:coverage>name=Chamartín; east=-3.6743; north=40.4096</dc:coverage>
+  <dc:coverage>name=Tetuán; east=-3.6856; north=40.4313</dc:coverage>
+  <dc:coverage>name=Chamberí; east=-3.6944; north=40.4531</dc:coverage>
+  <dc:coverage>name=Ciudad Lineal; east=-3.7167; north=40.4168</dc:coverage>
+  <dc:coverage>name=Fuencarral-El Pardo; east=-3.7236; north=40.4148</dc:coverage>
+  <dc:coverage>name=Moncloa-Aravaca; east=-3.6471; north=40.5497</dc:coverage>
+  <dc:coverage>name=Latina; east=-3.7245; north=40.4386</dc:coverage>
+  <dc:coverage>name=Carabanchel; east=-3.6169; north=40.3969</dc:coverage>
+  <dc:coverage>name=Usera; east=-3.7813; north=40.3573</dc:coverage>
+  <dc:coverage>name=Villaverde; east=-3.7155; north=40.3538</dc:coverage>
+  <dc:coverage>name=Villa de Vallecas; east=-3.7339; north=40.3095</dc:coverage>
+  <dc:coverage>name=Vicálvaro; east=-3.8667; north=40.3322</dc:coverage>
+  <dc:coverage>name=San Blas-Canillejas; east=-3.5667; north=40.3831</dc:coverage>
+  <dc:coverage>name=Barajas; east=-3.5667; north=40.4667</dc:coverage>
+  <dc:coverage>name=Hortaleza; east=-3.8567; north=40.3742</dc:coverage>
+  <dc:coverage>name=Moratalaz; east=-3.7567; north=40.4313</dc:coverage>
+  <dc:coverage>name=Puente de Vallecas; east=-3.6285; north=40.4457</dc:coverage>
+  <dc:creator>Sergio Bolívar Gómez</dc:creator>
+  <dc:creator>Juan José Velasco Horcajada</dc:creator>
+  <dc:creator>María Peña Fernández</dc:creator>
+  <dc:creator>Samuel Laso Saro</dc:creator>
+  <dc:creator>Ignacio de la Torre Cubillo</dc:creator>
+  <dc:creator>Mónica Alcantar Martínez</dc:creator>
+  <dc:date>2023-01-17</dc:date>
+  <dc:description>El conjunto de datos "refomad-data.xlsx" ha sido utilizado en el proyecto REFOMAD. Incluye información sobre la renta media por persona, el nivel de formación educativa de los residentes mayores de 25 años y el número de centros educativos en cada uno de los 21 distritos del Ayuntamiento de Madrid durante los años 2016-2019. El nivel de formación tiene 6 niveles: no sabe leer ni escribir, bachiller elemental, formación profesional, titulados medios, estudios universitarios y nivel de estudios no consta. Los centros educativos se clasifican también en 6 niveles: escuelas infantiles municipales, escuelas infantiles públicas de la Comunidad Autónoma de Madrid, escuelas infantiles privadas, colegios públicos infantil/primaria, institutos públicos de educación secundaria y colegios privados infantil/primaria. Los datos de renta fueron proporcionados por el INE, los datos sobre la formación fueron obtenidos mediante encuestas propias realizadas por el equipo REFOMAD y los datos de los centros educativos fueron solicitados al portal de datos abiertos del Ayuntamiento de Madrid. Los datos están en formato XLSX y tienen un tamaño de 17 kB. Los datos fueron preprocesados y curados utilizando herramientas de software libre como NumPy y pandas en Python versión 3.10.6.
+
+Se incluyen adicionalmente los datos originales ("DATOS ORIGINALES.zip") y el script de Python empleado para la lectura, preprocesado, curación y análisis de los datos ("REFOMAD-ETL-CURATION.ipynb").</dc:description>
+  <dc:identifier>https://zenodo.org/record/7542519</dc:identifier>
+  <dc:identifier>10.5281/zenodo.7542519</dc:identifier>
+  <dc:identifier>oai:zenodo.org:7542519</dc:identifier>
+  <dc:language>spa</dc:language>
+  <dc:relation>doi:10.5281/zenodo.7542518</dc:relation>
+  <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/legalcode</dc:rights>
+  <dc:subject>renta</dc:subject>
+  <dc:subject>formación</dc:subject>
+  <dc:subject>educación</dc:subject>
+  <dc:subject>Madrid</dc:subject>
+  <dc:subject>distrito</dc:subject>
+  <dc:subject>datos</dc:subject>
+  <dc:subject>análisis de datos</dc:subject>
+  <dc:subject>política</dc:subject>
+  <dc:subject>nivel de estudios</dc:subject>
+  <dc:subject>estudios universitarios</dc:subject>
+  <dc:subject>bachillerato</dc:subject>
+  <dc:subject>formación profesional</dc:subject>
+  <dc:subject>ESO</dc:subject>
+  <dc:subject>titulados medios</dc:subject>
+  <dc:subject>escuelas infantiles</dc:subject>
+  <dc:subject>colegios</dc:subject>
+  <dc:subject>institutos</dc:subject>
+  <dc:subject>colegios privados</dc:subject>
+  <dc:title>Renta media por persona y nivel de formación en los 21 distritos del Ayuntamiento de Madrid (2016-2019)</dc:title>
+  <dc:type>info:eu-repo/semantics/other</dc:type>
+  <dc:type>dataset</dc:type>
+</oai_dc:dc>
