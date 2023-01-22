@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.7542519</identifier>
+  <creators>
+    <creator>
+      <creatorName>Sergio Bolívar Gómez</creatorName>
+      <affiliation>Universidad de Cantabria</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Juan José Velasco Horcajada</creatorName>
+      <affiliation>Universidad de Cantabria</affiliation>
+    </creator>
+    <creator>
+      <creatorName>María Peña Fernández</creatorName>
+      <affiliation>Universidad de Cantabria</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Samuel Laso Saro</creatorName>
+      <affiliation>Universidad de Cantabria</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Ignacio de la Torre Cubillo</creatorName>
+      <affiliation>Universidad Internacional Menénedez Pelayo</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Mónica Alcantar Martínez</creatorName>
+      <affiliation>Universidad de Cantabria</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Renta media por persona y nivel de formación en los 21 distritos del Ayuntamiento de Madrid (2016-2019)</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2023</publicationYear>
+  <subjects>
+    <subject>renta</subject>
+    <subject>formación</subject>
+    <subject>educación</subject>
+    <subject>Madrid</subject>
+    <subject>distrito</subject>
+    <subject>datos</subject>
+    <subject>análisis de datos</subject>
+    <subject>política</subject>
+    <subject>nivel de estudios</subject>
+    <subject>estudios universitarios</subject>
+    <subject>bachillerato</subject>
+    <subject>formación profesional</subject>
+    <subject>ESO</subject>
+    <subject>titulados medios</subject>
+    <subject>escuelas infantiles</subject>
+    <subject>colegios</subject>
+    <subject>institutos</subject>
+    <subject>colegios privados</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Sergio Bolívar Gómez</contributorName>
+      <affiliation>Proyecto REFOMAD</affiliation>
+    </contributor>
+    <contributor contributorType="DataCurator">
+      <contributorName>Juan José Velasco Horcajada</contributorName>
+      <affiliation>Proyecto REFOMAD</affiliation>
+    </contributor>
+    <contributor contributorType="ProjectManager">
+      <contributorName>María Peña Fernández</contributorName>
+      <affiliation>Proyecto REFOMAD</affiliation>
+    </contributor>
+    <contributor contributorType="ProjectMember">
+      <contributorName>Samuel Laso Saro</contributorName>
+      <affiliation>Proyecto REFOMAD</affiliation>
+    </contributor>
+    <contributor contributorType="ProjectMember">
+      <contributorName>Ignacio de la Torre Cubillo</contributorName>
+      <affiliation>Proyecto REFOMAD</affiliation>
+    </contributor>
+    <contributor contributorType="ProjectMember">
+      <contributorName>Mónica Alcantar Martínez</contributorName>
+      <affiliation>Proyecto REFOMAD</affiliation>
+    </contributor>
+    <contributor contributorType="DataCollector">
+      <contributorName>Datos Abiertos del INE</contributorName>
+      <affiliation>INE</affiliation>
+    </contributor>
+    <contributor contributorType="DataCollector">
+      <contributorName>Portal de Datos Abiertos del Ayuntamiento de Madrid</contributorName>
+      <affiliation>Ayuntamiento de Madrid</affiliation>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2023-01-17</date>
+  </dates>
+  <language>es</language>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/7542519</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.7542518</relatedIdentifier>
+  </relatedIdentifiers>
+  <version>1.0.0</version>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;El conjunto de datos &amp;quot;refomad-data.xlsx&amp;quot; ha sido utilizado en el proyecto REFOMAD. Incluye informaci&amp;oacute;n sobre la renta media por persona, el nivel de formaci&amp;oacute;n educativa de los residentes mayores de 25 a&amp;ntilde;os y el n&amp;uacute;mero de centros educativos en cada uno de los 21 distritos del Ayuntamiento de Madrid durante los a&amp;ntilde;os 2016-2019. El nivel de formaci&amp;oacute;n tiene 6 niveles: no sabe leer ni escribir, bachiller elemental, formaci&amp;oacute;n profesional, titulados medios, estudios universitarios y nivel de estudios no consta. Los centros educativos se clasifican tambi&amp;eacute;n en 6 niveles: escuelas infantiles municipales, escuelas infantiles p&amp;uacute;blicas de la Comunidad Aut&amp;oacute;noma de Madrid, escuelas infantiles privadas, colegios p&amp;uacute;blicos infantil/primaria, institutos p&amp;uacute;blicos de educaci&amp;oacute;n secundaria y colegios privados infantil/primaria. Los datos de renta fueron proporcionados por el INE, los datos sobre la formaci&amp;oacute;n fueron obtenidos mediante encuestas propias realizadas por el equipo REFOMAD y los datos de los centros educativos fueron solicitados al portal de datos abiertos del Ayuntamiento de Madrid. Los datos est&amp;aacute;n en formato XLSX y tienen un tama&amp;ntilde;o de 17 kB. Los datos fueron preprocesados y curados utilizando herramientas de software libre como NumPy y pandas en Python versi&amp;oacute;n 3.10.6.&lt;/p&gt;
+
+&lt;p&gt;Se incluyen adicionalmente los datos originales (&amp;quot;DATOS ORIGINALES.zip&amp;quot;) y el script de Python empleado para la lectura, preprocesado, curaci&amp;oacute;n y an&amp;aacute;lisis de los datos (&amp;quot;REFOMAD-ETL-CURATION.ipynb&amp;quot;).&lt;/p&gt;</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace>Centro</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7038</pointLongitude>
+        <pointLatitude>40.4168</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Arganzuela</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.6922</pointLongitude>
+        <pointLatitude>40.3964</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Retiro</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7167</pointLongitude>
+        <pointLatitude>40.3719</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Salamanca</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.6167</pointLongitude>
+        <pointLatitude>40.3818</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Chamartín</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.6743</pointLongitude>
+        <pointLatitude>40.4096</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Tetuán</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.6856</pointLongitude>
+        <pointLatitude>40.4313</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Chamberí</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.6944</pointLongitude>
+        <pointLatitude>40.4531</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Ciudad Lineal</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7167</pointLongitude>
+        <pointLatitude>40.4168</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Fuencarral-El Pardo</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7236</pointLongitude>
+        <pointLatitude>40.4148</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Moncloa-Aravaca</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.6471</pointLongitude>
+        <pointLatitude>40.5497</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Latina</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7245</pointLongitude>
+        <pointLatitude>40.4386</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Carabanchel</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.6169</pointLongitude>
+        <pointLatitude>40.3969</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Usera</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7813</pointLongitude>
+        <pointLatitude>40.3573</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Villaverde</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7155</pointLongitude>
+        <pointLatitude>40.3538</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Villa de Vallecas</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7339</pointLongitude>
+        <pointLatitude>40.3095</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Vicálvaro</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.8667</pointLongitude>
+        <pointLatitude>40.3322</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>San Blas-Canillejas</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.5667</pointLongitude>
+        <pointLatitude>40.3831</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Barajas</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.5667</pointLongitude>
+        <pointLatitude>40.4667</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Hortaleza</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.8567</pointLongitude>
+        <pointLatitude>40.3742</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Moratalaz</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.7567</pointLongitude>
+        <pointLatitude>40.4313</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+    <geoLocation>
+      <geoLocationPlace>Puente de Vallecas</geoLocationPlace>
+      <geoLocationPoint>
+        <pointLongitude>-3.6285</pointLongitude>
+        <pointLatitude>40.4457</pointLatitude>
+      </geoLocationPoint>
+    </geoLocation>
+  </geoLocations>
+</resource>
