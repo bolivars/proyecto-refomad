@@ -10,5 +10,5 @@ Repositorio público del proyecto "REFOMAD: Análisis de la relación entre la F
 * Los metadatos siguiendo el esquema de Data Cite, en el fichero "refomad-datacite.xml".
 * La memoria del proyecto REFOMAD, en el fichero "refomad-memoria.pdf".
 * El DMP del proyecto REFOMAD, en el fichero "refomad-dmp.pdf". Se trata de una versión preliminar, hecha con la herramienta DMP Online (https://dmponline.dcc.ac.uk). La versión definitiva es la de la memoria.
-* Las slides para la presentación del proyecto, en el fichero "refomad-slides.pdf".
+* Las slides para la presentación del proyecto, en el fichero "refomad_slides.pdf".
 
